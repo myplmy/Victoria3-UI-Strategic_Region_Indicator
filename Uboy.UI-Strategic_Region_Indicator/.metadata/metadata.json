@@ -1,0 +1,13 @@
+{
+  "name" : "Uboy.UI-Strategic Region Indicator",
+  "id" : "uboy.ui.strategicregionindicator",
+  "version" : "1.0.0",
+  "supported_game_version" : "1.11.*",
+  "picture": "thumbnail.png",
+  "short_description" : "Displays the name of the strategic region that the state belongs to in the state panel.",
+  "tags" : ["Utilities","UI"],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : true
+  }
+}
